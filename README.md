@@ -1,10 +1,20 @@
-# Awesome LLMs / 大语言模型精选列表 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated bilingual (EN/中文) list of Large Language Models, tools, benchmarks, and resources.
->
-> 精选大语言模型、工具、基准测试与学习资源的中英文对照列表。
+# Awesome LLMs / 大语言模型精选列表
 
-**Last updated / 最后更新: 2026-03-13**
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/LeoLin990405/awesome-llms?style=social)](https://github.com/LeoLin990405/awesome-llms/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/LeoLin990405/awesome-llms)](https://github.com/LeoLin990405/awesome-llms/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/LeoLin990405/awesome-llms/pulls)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+A curated bilingual (EN/中文) list of Large Language Models, tools, benchmarks, and resources.
+
+精选大语言模型、工具、基准测试与学习资源的中英文对照列表。
+
+</div>
+
+**Last updated / 最后更新: 2026-03-16**
 
 ---
 
@@ -503,9 +513,11 @@
 
 ## Contributing / 贡献指南
 
-Contributions are welcome! Please:
+Contributions are welcome! Please read our **[Contributing Guide](CONTRIBUTING.md)** for details.
 
-欢迎贡献！请：
+欢迎贡献！请阅读 **[贡献指南](CONTRIBUTING.md)** 了解详情。
+
+**Quick summary / 快速摘要:**
 
 1. **Fork** this repository / Fork 本仓库
 2. Add your entry in the **correct category** and **alphabetical order** / 在正确分类中按字母顺序添加条目
